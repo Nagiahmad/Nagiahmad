@@ -1,12 +1,13 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f1f1f&height=160&section=header&text=RuckyTheGreat&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f1f1f&height=160&section=header&text=Nagi saki
+  &fontSize=35&fontColor=ffffff" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+cool+things+with+code;Game+Dev+%2B+Web+Dev+Explorer" />
+  <img rc="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+cool+things+with+code;Game+Dev+%2B+Web+Dev+Explorer" />
 </div>
 
 
