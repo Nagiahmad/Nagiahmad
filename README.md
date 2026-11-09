@@ -22,12 +22,13 @@ I'm particularly interested in programming, scientific simulations, and understa
 **Languages & Tools**
 
 * C++
-* C
 * C#
 * Python
 
 * SFML
 * HTML & CSS
+* OpenGL
+* QT
 
 *This list reflects technologies I've worked with in my projects and learning journey. I'll expand it as I gain more experience.*
 
