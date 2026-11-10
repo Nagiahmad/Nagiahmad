@@ -23,7 +23,6 @@ I'm particularly interested in programming, scientific simulations, and understa
 
 * C++
 * C#
-* Python
 
 * SFML
 * HTML & CSS
